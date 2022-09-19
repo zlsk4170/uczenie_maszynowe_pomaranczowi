@@ -2,9 +2,7 @@
 
 # Wstęp teoretyczny
 
-LINK:
-https://www.file.io/OcG7/download/5cFhRPrf6XF8
-
+#zadanie klasyfikacja
 
 
 
