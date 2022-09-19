@@ -2,6 +2,12 @@
 
 # Wstęp teoretyczny
 
+LINK:
+https://www.file.io/OcG7/download/5cFhRPrf6XF8
+
+
+
+
 https://paper.dropbox.com/doc/Szkolenie-Uczenie-Maszynowe-Pomaranczowi--BpYDfQHrqWNaC1Bj6o_V26J0Ag-bJvL3VDRyalW2pXUCnkc6
 
 
