@@ -13,4 +13,4 @@ https://paper.dropbox.com/doc/Szkolenie-Uczenie-Maszynowe-Pomaranczowi--BpYDfQHr
 
 # Przygotowanie danych oraz regresja liniowa
 
-https://colab.research.google.com/drive/1giN73lXW5VXftjUlbpxYwqbAim1V3GTw#scrollTo=PVpz51AkVv2-
+https://colab.research.google.com/drive/102O6DO9aBtsqra6G6JCtRkSNRTHJ9QIp?usp=sharing
