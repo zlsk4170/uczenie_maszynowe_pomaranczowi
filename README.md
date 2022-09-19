@@ -2,7 +2,7 @@
 
 # Wstęp teoretyczny
 
-#zadanie klasyfikacja
+#zadanie klasyfikacja regresja
 
 https://docs.google.com/spreadsheets/d/1-ftRcblRyra5SZP62IE5AcKyZPI1ld6Da7dAIZAblW8/edit#gid=0
 
