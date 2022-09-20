@@ -18,3 +18,7 @@ https://colab.research.google.com/drive/102O6DO9aBtsqra6G6JCtRkSNRTHJ9QIp?usp=sh
 # Regresja logistyczna jako przykład klasyfikacji
 
 https://colab.research.google.com/drive/1J34MEk2CELKEXiwqOQblYhmp6-Q4JFIT?usp=sharing
+
+# Decision Tree, Random Forest, Xgboost
+
+https://colab.research.google.com/drive/1g2j5R_zWDODOLVSu_1AfCZGQCbuCfSbP#scrollTo=uBnHdy8Yh-xG
