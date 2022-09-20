@@ -19,6 +19,12 @@ https://colab.research.google.com/drive/102O6DO9aBtsqra6G6JCtRkSNRTHJ9QIp?usp=sh
 
 https://colab.research.google.com/drive/1J34MEk2CELKEXiwqOQblYhmp6-Q4JFIT?usp=sharing
 
+OPIS DANYCH TITANIC
+
+https://www.kaggle.com/competitions/titanic/data
+
+
+
 # Decision Tree, Random Forest, Xgboost
 
 https://colab.research.google.com/drive/1g2j5R_zWDODOLVSu_1AfCZGQCbuCfSbP#scrollTo=uBnHdy8Yh-xG
