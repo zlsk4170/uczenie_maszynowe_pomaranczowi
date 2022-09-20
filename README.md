@@ -14,3 +14,7 @@ https://paper.dropbox.com/doc/Szkolenie-Uczenie-Maszynowe-Pomaranczowi--BpYDfQHr
 # Przygotowanie danych oraz regresja liniowa
 
 https://colab.research.google.com/drive/102O6DO9aBtsqra6G6JCtRkSNRTHJ9QIp?usp=sharing
+
+# Regresja logistyczna jako przykład klasyfikacji
+
+https://colab.research.google.com/drive/1J34MEk2CELKEXiwqOQblYhmp6-Q4JFIT?usp=sharing
