@@ -28,3 +28,8 @@ https://www.kaggle.com/competitions/titanic/data
 # Decision Tree, Random Forest, Xgboost
 
 https://colab.research.google.com/drive/1g2j5R_zWDODOLVSu_1AfCZGQCbuCfSbP#scrollTo=uBnHdy8Yh-xG
+
+
+Projekt grupowy
+
+https://colab.research.google.com/drive/1iIywCrELud8Ftu4FMxo1DN2xht4i_C6S
