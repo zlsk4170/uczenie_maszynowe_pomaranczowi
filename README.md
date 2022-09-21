@@ -30,6 +30,20 @@ https://www.kaggle.com/competitions/titanic/data
 https://colab.research.google.com/drive/1g2j5R_zWDODOLVSu_1AfCZGQCbuCfSbP#scrollTo=uBnHdy8Yh-xG
 
 
+# Redukcja wymiarow
+
+https://github.com/fuwiak/Uczenie_maszynowe_w_Pythonie/blob/main/Temat8_dodatkowy_redukcja_wymiarow_PCA_LDA.ipynb
+
+# Klasteryzacja 
+
+https://github.com/fuwiak/Uczenie_maszynowe_w_Pythonie/blob/main/Temat7_dodatkowy_klasteryzacja.ipynb
+
+# Projekt klasyfikacja plus klasteryzacja
+
+https://colab.research.google.com/drive/1U9bhfhEccc7Y74OT93zkYgD00bw_DOve#scrollTo=a5RHRN6pL3h2
+
+
+
 Projekt grupowy
 
 https://colab.research.google.com/drive/1iIywCrELud8Ftu4FMxo1DN2xht4i_C6S
